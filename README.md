@@ -84,5 +84,5 @@ available at [github link releases][version]
 
 ### (Official Links)
 [homepage]:
-[version]: 
-[release]:
+[https://github.com/Kiriprogtk/Messenger-Chatbot-project/blob/main/README.md]
+[release]
